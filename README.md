@@ -22,4 +22,4 @@
 
 ## To Be Considered
 
-- You are not given any pre-written components or wireframes. Make any decision you feel is best to make the app work# mod4-retake-project-assessment
+- You are not given any pre-written components or wireframes. Make any decision you feel is best to make the app work
